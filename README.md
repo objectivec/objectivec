@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @objectivec
 - 👀 I’m interested in Swift & SwiftUI programming on the Mac, iPhone & iPad
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on a Bible translation information tool
+- 💞️ I’m hoping to collaborate on a Bible translation information tool
 - 📫 How to reach me at my gmail address: HisMark
 
 <!---
